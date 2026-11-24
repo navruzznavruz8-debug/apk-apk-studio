@@ -1,2 +1,3 @@
-# apk-apk-studio
-apk-studio — APK Studio
+# apk-studio
+
+APK Studio yordamida yaratilgan. Har bir push APK yig'ilishini boshlaydi (Actions → Releases).
